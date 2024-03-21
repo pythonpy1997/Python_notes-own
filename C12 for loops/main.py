@@ -20,7 +20,7 @@
 
 #-----------for loop with range(start,stop)----------#
 
-# Generates a sequence of intergers stsrting from start to stop-1.
+# Generates a sequence of intergers starting from start to stop-1.
 
 # for i in range(0,20):
 #     print(i)
